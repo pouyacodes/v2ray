@@ -1,6 +1,6 @@
 {
 	"name": "RaySMS",
-	"start_url": "/v2ray",
+	"start_url": "index.html",
 	"display": "standalone",
 	"icons": [
 		{
